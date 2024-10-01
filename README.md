@@ -41,7 +41,8 @@ The dataset used for this project is `uberdrive.csv`, which contains the followi
 ## Visualizations
 
 - Miles Traveled by Purpose: ![Miles by Purpose]
-![image](https://github.com/user-attachments/assets/ddc37dc9-c302-4112-80cd-6b775e0c603e)
+![image](https://github.com/user-attachments/assets/9694dc5f-5929-481b-b892-e46267fae212)
+
 ![image](https://github.com/user-attachments/assets/31b0b60d-d073-40ef-8e89-72d5ade83b8b)
 
 
